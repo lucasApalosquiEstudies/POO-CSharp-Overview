@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\DEV\\POO\\CursoPOO\\CursoPOO.csproj",
-      "projectName": "CursoPOO",
-      "projectPath": "D:\\DEV\\POO\\CursoPOO\\CursoPOO.csproj",
+      "projectUniqueName": "D:\\DEV\\POO\\CursoPOO\\ClasseObjetoAtributoMetodo.csproj",
+      "projectName": "ClasseObjetoAtributoMetodo",
+      "projectPath": "D:\\DEV\\POO\\CursoPOO\\ClasseObjetoAtributoMetodo.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
       "outputPath": "D:\\DEV\\POO\\CursoPOO\\obj\\",
       "projectStyle": "PackageReference",
