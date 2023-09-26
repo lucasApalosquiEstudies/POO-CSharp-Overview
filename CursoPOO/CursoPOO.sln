@@ -5,7 +5,9 @@ VisualStudioVersion = 17.7.34024.191
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClasseObjetoAtributoMetodo", "ClasseObjetoAtributoMetodo.csproj", "{07A36E9C-198A-412F-99F2-84DE91F88C99}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModAcessoPropriedades", "..\ModAcessoPropriedades\ModAcessoPropriedades.csproj", "{6FE97E62-89B7-4C3C-A4DA-EDEB0DC6CBB6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ModAcessoPropriedades", "..\ModAcessoPropriedades\ModAcessoPropriedades.csproj", "{6FE97E62-89B7-4C3C-A4DA-EDEB0DC6CBB6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula03", "..\Aula03\Aula03.csproj", "{7C458E36-65F7-483F-B926-2FF4AB155DE5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{6FE97E62-89B7-4C3C-A4DA-EDEB0DC6CBB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6FE97E62-89B7-4C3C-A4DA-EDEB0DC6CBB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6FE97E62-89B7-4C3C-A4DA-EDEB0DC6CBB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C458E36-65F7-483F-B926-2FF4AB155DE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C458E36-65F7-483F-B926-2FF4AB155DE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C458E36-65F7-483F-B926-2FF4AB155DE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C458E36-65F7-483F-B926-2FF4AB155DE5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

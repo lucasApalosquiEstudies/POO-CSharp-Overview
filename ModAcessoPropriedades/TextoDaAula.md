@@ -31,11 +31,11 @@ de acordo com nossas necessidades, uma unica classe pode
  ter mais de um construtor com argumentos diferentes e isso
  se dá pela existencia da sobrecarga.</p></h2>
 
- <h2> 04 - Membros estáticos: Nada mais é que ummembro que está
+ <h2> 04 - Membros estáticos: Nada mais é que um membro que está
  ligado a nivel de classe e não ao nivel de instancia, ou seja
  não precisaria instanciar um objeto para poder utilizar
  do metodo ou do membro.</p></h2>
 
   <h2> 05 - Membros constantes: São aqueles que não sofrerão
-  alterações em seu valor do com~eço ao fim, não podendo ser alterados
+  alterações em seu valor do começo ao fim, não podendo ser alterados
   e funcionando da mesma forma em qualquer circunstancia.</p></h2>
