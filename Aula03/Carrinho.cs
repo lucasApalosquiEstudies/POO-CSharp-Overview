@@ -31,7 +31,26 @@ namespace Aula03
                 }
                 Console.WriteLine("Valor total das compras: R$" + valorTotalCarrinho);
             }
-            
+
+        }
+
+        public double ValorTotalCarrinho()
+        {
+            double valorTotalCarrinho = 0;
+            if (produtos.Count > 0)
+            {
+                
+                foreach (Produto produto in produtos)
+                {
+                    valorTotalCarrinho += produto.ValorTotal();
+                }
+            }
+            else
+            {
+                valorTotalCarrinho = 0;
+            }
+
+            return valorTotalCarrinho;
         }
 
 
